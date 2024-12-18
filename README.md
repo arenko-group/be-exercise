@@ -22,7 +22,7 @@ Now you can start the exercise! The task will have been sent to you separately i
 
 - Ensure you have met the criteria.
 - Check that the Actions workflows are passing.
-- Add the reviewer's email / GitHub name as collaborators on your repo.
+- Add the reviewer's email / GitHub name as [collaborators](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository) on your repo.
 - Contact the recruiter to let them know you have completed the exercise.
 
 ## Candidate README
