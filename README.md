@@ -8,7 +8,7 @@ This project provides a template for completeing the backend engineering tech te
 
 ### 1. Initialise Git Repository
 
-- Create a _private_ repo for the project in Github. Do not create a public repo for the exercise or share any of the exercise. Doing so will disqualify you from the selection process. Use [this link](https://github.com/new?template_name=be-exercise&template_owner=arenko-group) to generate your repo with the starter files.
+- Create a _private_ repo for the project in Github. Do not create a public repo for the exercise or share any of the exercise. Doing so will disqualify you from the selection process. Use [this link](https://github.com/new?template_name=be-exercise&template_owner=arenko-group&name=arenko-be-exercise-2024&visibility=private) to generate your repo with the starter files.
 - Clone the repo to your local machine.
 
 ### 2. Local Development
