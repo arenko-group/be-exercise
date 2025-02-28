@@ -4,6 +4,8 @@ Arenko's Backend Engineering Interview Template Project
 
 This project provides a template for completing the backend engineering tech test for Arenko's interview process. It includes a simple Github Actions workflow to build, test, and lint your code.
 
+At the bottom is a section where you should write a short description for your project and note any areas that you would extend it further.
+
 ## Candidate Instructions
 
 ### 1. Initialise Git Repository
@@ -27,4 +29,4 @@ Now you can start the exercise! The task will have been sent to you separately i
 
 ## Candidate README
 
-**Use this section to add notes and information on your project**
+**Please use this section to add notes and information on your project**
