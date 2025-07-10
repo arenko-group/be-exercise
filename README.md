@@ -30,3 +30,7 @@ Now you can start the exercise! The task will have been sent to you separately i
 ## Candidate README
 
 **Please use this section to add notes and information on your project**
+
+## Further Info
+
+When you're done, [click here!](https://arenko-group.github.io/)
