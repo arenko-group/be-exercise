@@ -2,6 +2,8 @@
 name: Go CI
 
 on:
+  schedule:
+    - cron: '0 9 * * 1'  # every Monday at 9 UTC
   push:
     branches:
       - main
